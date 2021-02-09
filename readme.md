@@ -1,4 +1,4 @@
-## Statistical Analysis | Regression
+## Statistical Analysis / Regression
 
 #### 1. Distinguish between categorical and continuous independent variables
 
