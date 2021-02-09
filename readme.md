@@ -1,3 +1,5 @@
+## Statistical Analysis | Regression
+
 #### Distinguish between categorical and continuous independent variables
 
 Idea was to split the dataset into two sub-datasets one of which consists of the continuous variables and the other of the categorical.
